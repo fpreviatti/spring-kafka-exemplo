@@ -11,3 +11,7 @@ Verificar se criou:
 docker container list -a
 
 <img src="https://github.com/fpreviatti/spring-kafka-exemplo/blob/main/list.png" width="400px" height="auto">
+
+Kafkadrop, acessar via localhost:19000
+
+<img src="https://github.com/fpreviatti/spring-kafka-exemplo/blob/main/kafdrop.png" width="400px" height="auto">
